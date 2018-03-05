@@ -10,7 +10,7 @@ setup(
     license="GPL-2",
     keywords="json config expansion",
     url="https://github.com/doctaweeks/toolconfig",
-    packages=['toolconfig', 'tests'],
+    packages=['toolconfig'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
